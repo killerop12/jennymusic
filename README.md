@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    ──「 Zᴇᴅᴢᴇ ✘ 」──
+    ──「 〖°𝑱𝑬𝑵𝑵𝒀 𝑿 𝑴𝑼𝑺𝑰𝑪 🦋💙°〗 」──
     
 
 
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ff3d94744211c796cf5bb.jpg">
+  <img src="https://graph.org/file/cea26e48787ae6e49ab73.jpg">
 </p>
 
 <p align="center">
