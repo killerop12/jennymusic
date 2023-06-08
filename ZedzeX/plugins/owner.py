@@ -23,7 +23,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/TERA_BAAP_KATIL")
+                        "〖°𝑱𝑬𝑵𝑵𝒀 🦋💙°〗 ", url=f"https://t.me/jenny_x_01")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/TERA_BAAP_KATIL")
+                        "〖°𝑱𝑬𝑵𝑵𝒀 🦋💙°〗 ", url=f"https://t.me/jenny_x_01")
                 ]
             ]
         ),
@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
 
 
 @app.on_message(
-    filters.command("katil")
+    filters.command("jenny")
     & filters.group
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
@@ -111,7 +111,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/team-katil/zedzemusic")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jennyxpro21/jennymusic")
                 ]
             ]
         ),
@@ -129,7 +129,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/team-katil/zedzemusic")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jennyxpro21/jennymusic")
                 ]
             ]
         ),
@@ -147,7 +147,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/team-katil/zedzemusic")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jennyxpro21/jennymusic")
                 ]
             ]
         ),
