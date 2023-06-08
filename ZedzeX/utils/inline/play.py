@@ -232,7 +232,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/unique_chat_world"
+                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/jenny_support"
             ),
         ],
         [
@@ -466,7 +466,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/unique_chat_world"
+                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/jenny_support"
             ),
         ],
         [
@@ -500,7 +500,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/unique_chat_world"
+                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/jenny_support"
             ),
         ],
         [
@@ -531,7 +531,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/unique_chat_world"
+                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/jenny_support"
             ),
         ],
         [
@@ -691,7 +691,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/unique_chat_world"
+                text="★ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/jenny_support"
             ),
         ],
         [
