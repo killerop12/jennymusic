@@ -26,11 +26,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/team-katil/zedzemusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/jennyxpro21/jennymusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/team-katil/zedzemusic/network/members"> <img src="https://img.shields.io/github/forks/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/team-katil/zedzemusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/team-katil/zedzemusic/commits/team-katil"> <img src="https://img.shields.io/github/last-commit/team-katil/zedzemusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/jennyxpro21/jennymusic/commits/team-katil"> <img src="https://img.shields.io/github/last-commit/team-katil/zedzemusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -44,19 +44,19 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/team-katil/zedzemusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jennyxpro21/jennymusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/katil_your_dad"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『𝐊𝐀𝐓𝐈𝐋』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/jenny_x_01"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『𝐊𝐀𝐓𝐈𝐋』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/team-katil/zedzemusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/jennyxpro21/jennymusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -68,7 +68,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/team-katil/zedzemusic && cd zedzemusic`
+`git clone https://github.com/jennyxpro21/jennymusic && cd zedzemusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -89,7 +89,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/unique_chat_world"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/jenny_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
