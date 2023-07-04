@@ -232,17 +232,17 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝙅𝙀𝙉𝙉𝙔💘", url="https://t.me/jenny_x_01"
+                text="🌹𝙅𝙀𝙉𝙉𝙔💘", url="https://t.me/jenny_x_01"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="💘𝙅𝙀𝙉𝙉𝙔 𝙒𝙊𝙍𝙇𝘿💘", url="https://t.me/KWF_JENNY"
+                text="🌹𝙅𝙊𝙄𝙉 𝘿𝙄𝙇💘", url="https://t.me/ITZ_DIL_KI_BAAT"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❌ ᴄʟᴏsᴇ ❌", callback_data=f"close"
+                text="🌹𝘾𝙇𝙊𝙎𝙀💘", callback_data=f"close"
             )
         ],
     ]
